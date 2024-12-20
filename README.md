@@ -1,4 +1,4 @@
-## Hi there 👋
+Information Technology Management B.S. and Cybersecurity Minor| University of Minnesota Crookston|
 
 <!--
 **Ernesto-Rafin/Ernesto-Rafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
